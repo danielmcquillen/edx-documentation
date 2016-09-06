@@ -69,8 +69,7 @@ The following image shows an example drag and drop problem.
 
 The following image shows the success feedback message that learners see when
 they match a draggable item with its target zone. Each draggable item has its
-own success feedback message. Only drag and drop problems in standard mode
-display success feedback. In assessment mode, problems do not display feedback.
+own success feedback message.
 
 .. image:: ../../../shared/images/dnd-correct-feedback.png
   :width: 400
@@ -79,9 +78,7 @@ display success feedback. In assessment mode, problems do not display feedback.
 
 The following image shows the error feedback message that learners see when
 they match a draggable item with an incorrect target zone. Each draggable item
-has its own error feedback message. Only drag and drop problems in standard
-mode display error feedback. In assessment mode, problems do not display
-feedback.
+has its own error feedback message.
 
 .. image:: ../../../shared/images/dnd-incorrect-feedback.png
   :width: 400
@@ -437,8 +434,7 @@ The following table explains the controls in the **Editing** dialog box.
 
    * - **Zone Alignment**
      - Controls the way that the problem aligns draggable items after learners
-       drop them on a target zone. If the value is **none**, items are not
-       aligned and they remain where learners dropped them.
+       drop them on a target zone.
 
    * - **Add a zone**
      - Adds a set of controls for a new zone to the **Editing** dialog box.
